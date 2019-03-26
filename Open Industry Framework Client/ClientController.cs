@@ -1,0 +1,17 @@
+﻿using Models;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace OpenIndustryFrameworkClient
+{
+    public class ClientController
+    {
+        public void Execute( Client client)
+        {
+
+        }
+    }
+}
