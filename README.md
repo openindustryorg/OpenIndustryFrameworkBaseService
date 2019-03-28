@@ -1,0 +1,2 @@
+# OpenIndustryFrameworkBaseService
+Windows Service Template
